@@ -1,0 +1,14 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.one
+{
+    width: 200px;
+    height: 200px;
+    /* background: linear-gradient( blue, green); */
+/* background: linear-gradient( orange,white,green); */
+background: conic-gradient(red,white,purple );
+}
